@@ -1,0 +1,1 @@
+testlist <- list(api = 0, p = 0, rsi = 0, spgr = 0, t = 0)

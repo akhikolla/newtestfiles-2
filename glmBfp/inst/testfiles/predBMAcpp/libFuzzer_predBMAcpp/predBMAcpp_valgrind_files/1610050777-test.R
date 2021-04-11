@@ -1,0 +1,1 @@
+testlist <- list(LpMat = structure(0, .Dim = c(1L, 1L)), SurvMat = structure(0, .Dim = c(1L,  1L)), WtVec = numeric(0))

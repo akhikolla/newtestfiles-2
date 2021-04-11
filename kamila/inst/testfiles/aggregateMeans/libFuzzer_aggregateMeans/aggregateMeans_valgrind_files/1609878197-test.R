@@ -1,0 +1,1 @@
+testlist <- list(conVar = structure(0, .Dim = c(1L, 1L)), kk = 0L, membNew = integer(0))

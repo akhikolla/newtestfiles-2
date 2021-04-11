@@ -1,0 +1,1 @@
+testlist <- list(a = 0L, b = 0L, x = integer(0))

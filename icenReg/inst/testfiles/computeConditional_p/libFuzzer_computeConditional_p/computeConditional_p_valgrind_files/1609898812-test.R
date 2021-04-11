@@ -1,0 +1,1 @@
+testlist <- list(dist = NULL, baselineParams = structure(0, .Dim = c(1L,  1L)), etas = numeric(0), q = numeric(0), model = NULL, base_dist = character(0),      reg_model = character(0))

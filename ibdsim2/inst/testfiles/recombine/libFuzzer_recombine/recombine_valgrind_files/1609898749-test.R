@@ -1,0 +1,1 @@
+testlist <- list(cross = numeric(0), strand1 = structure(0, .Dim = c(1L,  1L)), strand2 = structure(0, .Dim = c(1L, 1L)))

@@ -1,0 +1,3 @@
+testlist <- list(a = 0L, b = 0L, x = c(993737472L, 1734829927L, 1734829927L,  1734829927L, 1734829927L, 1734829927L, 1734829927L, 1734829927L,  1734829927L, 1734829927L, 1734829927L, 1731919931L, 0L, 0L, 0L,  0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L,  0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L,  0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L))
+result <- do.call(grattan:::anyOutside,testlist)
+str(result)

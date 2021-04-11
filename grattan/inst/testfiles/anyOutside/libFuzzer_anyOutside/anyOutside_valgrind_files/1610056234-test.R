@@ -1,0 +1,1 @@
+testlist <- list(a = -1L, b = -1L, x = c(-1L, NA, -1L, -1L))

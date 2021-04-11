@@ -1,0 +1,3 @@
+testlist <- list(id = c(0L, -844890112L, 8739584L, 3801088L, 1L, 0L, 0L,  0L, 8026746L, 2046864128L, 8029061L, 590633728L, 0L, 0L, 134217728L,  12891L, 930759167L, -8750557L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L,  0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L,  0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L), x = c(9.23491410919548e-310,  0), y = numeric(0))
+result <- do.call(ggforce:::enclose_points,testlist)
+str(result)

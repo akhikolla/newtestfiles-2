@@ -1,0 +1,1 @@
+testlist <- list(C = 0L, gamma = structure(0, .Dim = c(1L, 1L)), N = 0L,      post = structure(0, .Dim = c(1L, 1L)), P = 0L, x = structure(0, .Dim = c(1L,      1L)))
